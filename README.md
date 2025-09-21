@@ -93,6 +93,4 @@ let orderMock: [OrderType] = [
 Desenvolvido por **Francismar Alves Martins Junior**
 📅 Criado em 21/09/2025
 
-```
 
----
