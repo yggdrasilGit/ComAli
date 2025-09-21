@@ -22,21 +22,22 @@ O projeto serve como exemplo de **uso de LazyHGrid**, **mock de dados** e organi
 
 ## 🚀 Como executar
 1. Clone este repositório:
-   ```bash
+
+```bash
    git clone https://github.com/seu-usuario/ComAli.git
 ````
 
 2. Abra o projeto no **Xcode 26**:
 
-   ```bash
+```bash
    cd ComAli
    open ComAli.xcodeproj
-   ```
+```
 3. Escolha um simulador (ex.: iPhone 15) e rode o projeto:
 
-   ```bash
+```bash
    Cmd + R
-   ```
+```
 
 ---
 
