@@ -7,15 +7,11 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		AFB5F2AC2E807CE80017B6CD /* Untitled.swift in Sources */ = {isa = PBXBuildFile; fileRef = AFB5F2AB2E807CE20017B6CD /* Untitled.swift */; };
-		AFB5F2AE2E807CF30017B6CD /* File.txt in Resources */ = {isa = PBXBuildFile; fileRef = AFB5F2AD2E807CF30017B6CD /* File.txt */; };
 		AFB5F2B02E807D220017B6CD /* README.md in Resources */ = {isa = PBXBuildFile; fileRef = AFB5F2AF2E807D220017B6CD /* README.md */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
 		AFB5F2892E8063B00017B6CD /* ComAli.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = ComAli.app; sourceTree = BUILT_PRODUCTS_DIR; };
-		AFB5F2AB2E807CE20017B6CD /* Untitled.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Untitled.swift; sourceTree = "<group>"; };
-		AFB5F2AD2E807CF30017B6CD /* File.txt */ = {isa = PBXFileReference; lastKnownFileType = text; path = File.txt; sourceTree = "<group>"; };
 		AFB5F2AF2E807D220017B6CD /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -42,8 +38,6 @@
 			isa = PBXGroup;
 			children = (
 				AFB5F2AF2E807D220017B6CD /* README.md */,
-				AFB5F2AD2E807CF30017B6CD /* File.txt */,
-				AFB5F2AB2E807CE20017B6CD /* Untitled.swift */,
 				AFB5F28B2E8063B00017B6CD /* ComAli */,
 				AFB5F28A2E8063B00017B6CD /* Products */,
 			);
@@ -122,7 +116,6 @@
 			buildActionMask = 2147483647;
 			files = (
 				AFB5F2B02E807D220017B6CD /* README.md in Resources */,
-				AFB5F2AE2E807CF30017B6CD /* File.txt in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -133,7 +126,6 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				AFB5F2AC2E807CE80017B6CD /* Untitled.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
